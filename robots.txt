@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+​Sitemap: https://www.google.com/search?q=https://sri-not-a-dev.github.io/MKAnimeZX/sitemap.xml
